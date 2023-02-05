@@ -15,7 +15,7 @@ body {
 }
 
 .wrap {
-    max-width: 1241px;
+    max-width: 1240px;
     display: flex;
     flex-direction: column;
 }
@@ -30,7 +30,7 @@ body {
 }
 
 .right {
-    width: 40%;
+    width: 41%;
     padding: 2.5rem 0 0 2.9rem;
 }
 
