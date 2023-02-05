@@ -30,12 +30,12 @@ body {
 }
 
 .right {
-    width: 45%;
+    width: 41%;
     padding: 2.5rem 0 0 2.9rem;
 }
 
 .left {
-    width: 60%;
+    width: 59%;
 }
 
 .left img {
@@ -81,9 +81,8 @@ body {
 }
 
 h1 {
-    padding-right: 3rem;
     font-family: Poppins, sans-serif;
-    font-size: 2.4vw;
+    font-size: 2.3vw;
     color: white;
 }
 
