@@ -15,7 +15,7 @@ body {
 }
 
 .wrap {
-    max-width: 1240px;
+    max-width: 1241px;
     display: flex;
     flex-direction: column;
 }
